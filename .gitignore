@@ -1,5 +1,3 @@
-
-Exe1.pdf
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -10,4 +8,6 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+**/bin/*
+*.pdf
 _deps
