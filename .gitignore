@@ -1,4 +1,4 @@
-
+.ipynb_checkpoints/*
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
