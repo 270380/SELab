@@ -25,6 +25,7 @@ public class Dominoes2 {
         }
 
     }
+    // this is a comment from Fatemeh Shafiee
 
     static void clear (int z, LinkedList<LinkedList<Integer>> X_Y, HashSet<Integer> count) {
         while (!X_Y.get(z).isEmpty()) {
